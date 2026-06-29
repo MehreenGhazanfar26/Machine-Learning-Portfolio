@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Mehreen
 
-## Machine Learning Developer | Python | Streamlit | AI Solutions
+## Machine Learning Developer | Python | Scikit-learn | Streamlit | End-to-End ML Solutions
 
 Welcome to my Machine Learning Portfolio.
 
-I build end-to-end Machine Learning solutions focused on solving real-world business problems. My work includes data preprocessing, model development, prediction systems, and interactive web applications using Python and Streamlit.
-
-I enjoy transforming raw data into intelligent solutions that help automate decision-making and improve business outcomes.
+I build end-to-end Machine Learning solutions that transform raw data into actionable business insights. My work focuses on data preprocessing, model development, predictive analytics, and interactive web applications using Python and Streamlit.
 
 ---
 
@@ -63,7 +61,9 @@ An end-to-end Machine Learning application that predicts loan approval using a c
 * Well-structured documentation
   
 https://github.com/MehreenGhazanfar26/Loan_Approval_Predictions/tree/main/Loan_Approval_Prediction
-**Status:** Ongoing
+**Status:** Completed ✅
+🔗 View Project: https://github.com/MehreenGhazanfar26/Loan_Approval_Predictions/tree/main/Loan_Approval_Prediction
+ Loan Approval Prediction Repository 
 
 ---
 
