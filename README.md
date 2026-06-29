@@ -90,5 +90,4 @@ My goal is to build production-ready Machine Learning applications that solve pr
 
 **Email:** mehreenghazanfar26@gmail.com
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
 
