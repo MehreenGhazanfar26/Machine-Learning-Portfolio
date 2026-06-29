@@ -48,6 +48,7 @@ I enjoy transforming raw data into intelligent solutions that help automate deci
 # Featured Projects
 
 ## Loan Approval Prediction
+   https://github.com/MehreenGhazanfar26/Loan_Approval_Predictions/tree/main/Loan_Approval_Prediction
 
 An end-to-end Machine Learning application that predicts loan approval using a complete ML workflow.
 
