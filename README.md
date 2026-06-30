@@ -62,8 +62,6 @@ An end-to-end Machine Learning application that predicts loan approval using a c
   
 https://github.com/MehreenGhazanfar26/Loan_Approval_Predictions/tree/main/Loan_Approval_Prediction
 **Status:** Completed ✅
-🔗 View Project: https://github.com/MehreenGhazanfar26/Loan_Approval_Predictions/tree/main/Loan_Approval_Prediction
- Loan Approval Prediction Repository 
 
 ---
 
